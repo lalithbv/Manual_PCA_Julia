@@ -32,6 +32,6 @@ Yeast consumes the sugar in the grapes and converts it to ethanol and carbon dio
 - Quality (based on sensory data): Quality label(score between 3 to 8) 
 
 ## Result
-![Classification](./Resources/Classification.png)
+![Clustering](./Resources/Clustering.png)
 
 **We can see from the above plot that there exists two classes i.e. bad quality wine and the good quality wine clearly separated.**
