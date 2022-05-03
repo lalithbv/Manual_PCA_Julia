@@ -1,6 +1,6 @@
 # Manual implementation of Principal Component Analysis (PCA) using Julia
 
-**This project aims to visually differentiate good quality wines from the bad ones using K-means clustering but first using PCA as a preprocessing step for dimensionality reduction.**
+**This project aims to visually differentiate good quality wines from the bad ones using K-means clustering but first the dataset is pre-processed by transforming all the columns into two principal components manually (i.e., without using any pre-built library).**
 
 ## What is PCA and what is the need for it?
 
